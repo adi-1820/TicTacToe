@@ -1,3 +1,7 @@
+<html>
+<head>    
+</head>
+<body>
 <h1> Tic Tac Toe</h1>
 <h2> Features </h2>
   <ul>
@@ -16,7 +20,7 @@
 
 <h2> Screenshots </h2>
 
-<table border=1 width="600">
+<table>
   <tr> 
     <th> Login </th>
     <th> Registration </th>
@@ -41,3 +45,6 @@
     <td> <img src="https://github.com/adi-1820/tictactoe/assets/103437278/ab2a4306-9861-46a1-9c95-215951ef3a0f" width=200 alt="SS 4"> </td>
   </tr>
 </table>
+
+</body>
+</html>
