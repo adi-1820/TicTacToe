@@ -13,8 +13,10 @@
 </ul>
 <h2> Download APK file </h2>
 <h3><a href="https://www.mediafire.com/file/8xu55whgetmvznh/Tic+Tac+Toe.apk/file"> APK file </a> </h3>
+
 <h2> Screenshots </h2>
-<table width=500 border=2 cellspacing=0>
+
+<table border=1 width="600">
   <tr> 
     <th> Login </th>
     <th> Registration </th>
@@ -39,8 +41,3 @@
     <td> <img src="https://github.com/adi-1820/tictactoe/assets/103437278/ab2a4306-9861-46a1-9c95-215951ef3a0f" width=200 alt="SS 4"> </td>
   </tr>
 </table>
-
-
- 
-
-
